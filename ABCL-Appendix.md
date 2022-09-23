@@ -11,5 +11,7 @@ we here fix the $\Vert \boldsymbol{y} \Vert$ as a constant to reduce the radial 
 ### Appendix-B
 Different from CosFace-based $L_B$ definition, hypersphere transformation (embedding) based SCE, hereinafter referred to as HT-SCE, for $L_B$ uses naive linear layer to map high-dimensional normalized features to output space and then exploit feature$\&$weights normalization, angular margin operation on these features to obtain final latent features.
 Fig.~\ref{fig:six2} shows the classification accuracies on both normal samples and adversarial examples using the same setting as the Fig.
-![Fig1](Fig1.png)
+
+![jieping]()
+
 in the body of this paper by enabling HT-SCE mode in the ABCL framework.
